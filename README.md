@@ -1,5 +1,3 @@
-
-
 -👋 Olá, sou @DeVC4puz 👀 Estou interessado em aprender sobre programação e entre muitas outras coisas que envolvem Ti e Programar!
 
 -🌱 Atualmente estou aprendendo Python
